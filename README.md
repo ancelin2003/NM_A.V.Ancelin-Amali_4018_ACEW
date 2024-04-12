@@ -4,19 +4,19 @@
 Project implemented by: 
 
 
-Name:
+Name: A.V.Ancelin Amali
 
 
-ID:
+ID:au960221104018
 
 
-College name:
+College name:Arunachala College of Engineering for Women
 
 
 Login credentials: 
 
-username: root
+username: admin_6
 
 
-Password: root
+Password: admin6
 
